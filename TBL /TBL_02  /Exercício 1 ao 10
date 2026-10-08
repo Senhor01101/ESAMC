@@ -1,0 +1,19 @@
+1) Polimorfismo significa que um mesmo método pode ter comportamentos diferentes dependendo do objeto que está sendo utilizado.
+
+2) A palavra-chave virtual permite que um método de uma classe base possa ser sobrescrito pelas classes filhas.
+
+3) A palavra-chave override é usada para sobrescrever um método virtual ou abstrato que foi criado na classe base.
+
+4) O método da classe do objeto que está sendo utilizado será executado.
+
+5) Ao herdar de uma classe, a classe filha recebe características e comportamentos da classe pai.
+
+6) Ela pode possuir métodos que não possuem uma implementação completa, chamados de métodos abstratos.
+
+7) Ummétodo concreto possui uma implementação, ou seja, possui código dentro dele.
+
+8) Virtualpossui uma implementação padrão e permite que uma classe filha altere esse comportamento usando override.
+
+9) Porque gerente e programador herdam da classe funcionario.
+
+10) A principal vantagem é facilitar a organização e manutenção do código.
